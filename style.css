@@ -1,0 +1,34 @@
+body {
+    background-color: palevioletred;
+}
+
+#header {
+    background-color: rgb(252, 155, 173);
+    border-radius: 15px;
+    height: 130px;
+    width: 98%;
+    margin-top: 20px;
+    box-shadow: 10px 10px 20px black;
+}
+
+#size {
+    color: white;
+    font-family: 'Special Elite', cursive;
+}
+
+#footer {
+    background-color: pink;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+canvas {
+    box-shadow: 10px 10px 15px black;
+    border-style: ridge;
+    border-width: 5px;
+}
